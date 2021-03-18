@@ -3,9 +3,9 @@
 RDP Windows Gratis 6 Jam ON
 
 
-Buat RDP Windows Ram 7GB 2core cpu Dengan Github:
+Buat RDP Windows gratis dari website Github:
 
-+ Tekan Tombol Fork untuk membuat RDP(bagu pengguna Android/HP disilahkan pake google chrome mode desktop).
++ Tekan Tombol Fork untuk membuat RDP.
 + kunjungi https://dashboard.ngrok.com untuk mendapatkan NGROK_AUTH_TOKEN
 + Di Dalam Repo ini Pergi ke Settings> Secrets> New repository secret
 + isi Nama: Masukan NGROK_AUTH_TOKEN
@@ -15,5 +15,5 @@ Buat RDP Windows Ram 7GB 2core cpu Dengan Github:
 + Refresh Web dan masuk ke CI> build
 + Tekan Tombol panah menghadap ke bawah "RDP INFO LOGIN" Untuk Mendapatkan IP, User, Password.
 
-JANGAN LUPA LIKE ANDA SUBSCRIBE CHANNEL MBAH GADGET
+JANGAN LUPA LIKE ANDA SUBSCRIBE CHANNEL SURYONO MUDJIBA
 https://www.youtube.com/channel/UC3k5Cndh4BRT1M-6uVGag3w
